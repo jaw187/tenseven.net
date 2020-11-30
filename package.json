@@ -1,0 +1,30 @@
+{
+  "name": "tenseven.net",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaw187/tenseven.net.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaw187/tenseven.net/issues"
+  },
+  "homepage": "https://github.com/jaw187/tenseven.net#readme",
+  "dependencies": {
+    "@apollo/client": "^3.2.9",
+    "apollo-server-fastify": "^3.0.0-alpha.3",
+    "fastify": "^3.8.0",
+    "fastify-nextjs": "^5.1.0",
+    "graphql": "^15.4.0",
+    "next": "^9.3.1",
+    "react": "^16.14.0",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^16.14.0"
+  }
+}
